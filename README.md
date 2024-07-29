@@ -55,13 +55,13 @@ The main requirement of this license is: if you link your mod against CommonLibS
 
 <!--CONTRIBUTORS_BEGIN--><table><tr>
   <td align="center">
-    <a href="https://github.com/gottyduke" title="DK">
-      <img src="https://avatars.githubusercontent.com/u/35783662?v=4" width="50;" alt="DK"/>
+    <a href="https://github.com/ThirdEyeSqueegee" title="Angad">
+      <img src="https://avatars.githubusercontent.com/u/66992519?v=4" width="50;" alt="Angad"/>
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/ThirdEyeSqueegee" title="Angad">
-      <img src="https://avatars.githubusercontent.com/u/66992519?v=4" width="50;" alt="Angad"/>
+    <a href="https://github.com/gottyduke" title="DK">
+      <img src="https://avatars.githubusercontent.com/u/35783662?v=4" width="50;" alt="DK"/>
     </a>
   </td>
   <td align="center">
@@ -75,13 +75,13 @@ The main requirement of this license is: if you link your mod against CommonLibS
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/TommInfinite" title="TommInfinite">
-      <img src="https://avatars.githubusercontent.com/u/81481291?v=4" width="50;" alt="TommInfinite"/>
+    <a href="https://github.com/nikitalita" title="nikitalita">
+      <img src="https://avatars.githubusercontent.com/u/69168929?v=4" width="50;" alt="nikitalita"/>
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/nikitalita" title="nikitalita">
-      <img src="https://avatars.githubusercontent.com/u/69168929?v=4" width="50;" alt="nikitalita"/>
+    <a href="https://github.com/TommInfinite" title="TommInfinite">
+      <img src="https://avatars.githubusercontent.com/u/81481291?v=4" width="50;" alt="TommInfinite"/>
     </a>
   </td>
   <td align="center">
@@ -90,13 +90,13 @@ The main requirement of this license is: if you link your mod against CommonLibS
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/alandtse" title="Alan Tse">
-      <img src="https://avatars.githubusercontent.com/u/7086117?v=4" width="50;" alt="Alan Tse"/>
+    <a href="https://github.com/shadeMe" title="Madeesh Kannan">
+      <img src="https://avatars.githubusercontent.com/u/214450?v=4" width="50;" alt="Madeesh Kannan"/>
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/shadeMe" title="Madeesh Kannan">
-      <img src="https://avatars.githubusercontent.com/u/214450?v=4" width="50;" alt="Madeesh Kannan"/>
+    <a href="https://github.com/alandtse" title="Alan Tse">
+      <img src="https://avatars.githubusercontent.com/u/7086117?v=4" width="50;" alt="Alan Tse"/>
     </a>
   </td>
   <td align="center">
@@ -117,6 +117,11 @@ The main requirement of this license is: if you link your mod against CommonLibS
   <td align="center">
     <a href="https://github.com/Bobbyclue" title="Bobbyclue">
       <img src="https://avatars.githubusercontent.com/u/97621924?v=4" width="50;" alt="Bobbyclue"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/BrodyHiggerson" title="BrodyHiggerson">
+      <img src="https://avatars.githubusercontent.com/u/7245990?v=4" width="50;" alt="BrodyHiggerson"/>
     </a>
   </td>
   <td align="center">
